@@ -1,4 +1,4 @@
-<img width="800" height="1000" alt="chatbot" src="https://github.com/user-attachments/assets/a66d6276-06f9-45e6-9eeb-9954744c76c1" />
+<img width="500" height="700" alt="chatbot" src="https://github.com/user-attachments/assets/a66d6276-06f9-45e6-9eeb-9954744c76c1" />
 
 Basic AI-Powered FAQ Bot
 Table of Contents

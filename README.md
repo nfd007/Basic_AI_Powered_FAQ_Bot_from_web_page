@@ -83,6 +83,6 @@ Bot: Type your question and I'll try to answer it.
 Example chat between user and bot
 
 Architecture Diagram
-User Input -> Vectorize (TF-IDF) -> Find Similar FAQ (Cosine Similarity) -> Return Best-Matching Answer
+<img width="896" height="1452" alt="arch" src="https://github.com/user-attachments/assets/7279d6d7-bf5b-4827-8689-d9d8f052f690" />
 
-Workflow
+
